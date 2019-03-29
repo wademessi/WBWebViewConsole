@@ -54,7 +54,7 @@
                 }
 
                 _messageQueue.push(message);
-                location.href = _invokeScheme;
+//                 location.href = _invokeScheme;
             },
 
             _messageQueue: function () {
